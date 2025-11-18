@@ -1,0 +1,42 @@
+[
+  {
+    "id": "T1762510485820",
+    "user_id": 8088424398,
+    "subject": "Ciao",
+    "message": "Descrizione da completare",
+    "status": "open",
+    "created_at": "2025-11-07T10:14:45.820Z",
+    "updated_at": "2025-11-07T10:14:45.820Z",
+    "messages": []
+  },
+  {
+    "id": "T1762510686966",
+    "user_id": 8088424398,
+    "subject": "Problema",
+    "message": "Descrizione da completare",
+    "status": "open",
+    "created_at": "2025-11-07T10:18:06.966Z",
+    "updated_at": "2025-11-07T10:18:06.966Z",
+    "messages": []
+  },
+  {
+    "id": "T1762511688786",
+    "user_id": 8088424398,
+    "subject": "Problema",
+    "message": "Descrizione da completare",
+    "status": "open",
+    "created_at": "2025-11-07T10:34:48.786Z",
+    "updated_at": "2025-11-07T10:34:48.786Z",
+    "messages": []
+  },
+  {
+    "id": "T1762512910108",
+    "user_id": 167482252,
+    "subject": "cia0",
+    "message": "Descrizione da completare",
+    "status": "open",
+    "created_at": "2025-11-07T10:55:10.108Z",
+    "updated_at": "2025-11-07T10:55:10.108Z",
+    "messages": []
+  }
+]

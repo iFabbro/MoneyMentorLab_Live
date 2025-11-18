@@ -1,0 +1,1263 @@
+{
+  "actions": [
+    {
+      "user_id": 8088424398,
+      "action": "user_returned",
+      "metadata": {},
+      "timestamp": "2025-11-07T10:13:26.579Z"
+    },
+    {
+      "user_id": 8088424398,
+      "action": "bot_start",
+      "metadata": {},
+      "timestamp": "2025-11-07T10:13:26.582Z"
+    },
+    {
+      "user_id": 8088424398,
+      "action": "user_returned",
+      "metadata": {},
+      "timestamp": "2025-11-07T10:13:31.125Z"
+    },
+    {
+      "user_id": 8088424398,
+      "action": "callback_new_features",
+      "metadata": {},
+      "timestamp": "2025-11-07T10:13:31.126Z"
+    },
+    {
+      "user_id": 8088424398,
+      "action": "user_returned",
+      "metadata": {},
+      "timestamp": "2025-11-07T10:13:34.357Z"
+    },
+    {
+      "user_id": 8088424398,
+      "action": "callback_portfolio_tracker",
+      "metadata": {},
+      "timestamp": "2025-11-07T10:13:34.360Z"
+    },
+    {
+      "user_id": 8088424398,
+      "action": "user_returned",
+      "metadata": {},
+      "timestamp": "2025-11-07T10:13:37.500Z"
+    },
+    {
+      "user_id": 8088424398,
+      "action": "callback_new_features",
+      "metadata": {},
+      "timestamp": "2025-11-07T10:13:37.501Z"
+    },
+    {
+      "user_id": 8088424398,
+      "action": "user_returned",
+      "metadata": {},
+      "timestamp": "2025-11-07T10:13:39.804Z"
+    },
+    {
+      "user_id": 8088424398,
+      "action": "callback_back_main",
+      "metadata": {},
+      "timestamp": "2025-11-07T10:13:39.806Z"
+    },
+    {
+      "user_id": 8088424398,
+      "action": "user_returned",
+      "metadata": {},
+      "timestamp": "2025-11-07T10:13:41.762Z"
+    },
+    {
+      "user_id": 8088424398,
+      "action": "callback_new_features",
+      "metadata": {},
+      "timestamp": "2025-11-07T10:13:41.764Z"
+    },
+    {
+      "user_id": 8088424398,
+      "action": "user_returned",
+      "metadata": {},
+      "timestamp": "2025-11-07T10:13:49.441Z"
+    },
+    {
+      "user_id": 8088424398,
+      "action": "callback_market_prices",
+      "metadata": {},
+      "timestamp": "2025-11-07T10:13:49.444Z"
+    },
+    {
+      "user_id": 8088424398,
+      "action": "user_returned",
+      "metadata": {},
+      "timestamp": "2025-11-07T10:13:52.315Z"
+    },
+    {
+      "user_id": 8088424398,
+      "action": "callback_price_btc",
+      "metadata": {},
+      "timestamp": "2025-11-07T10:13:52.318Z"
+    },
+    {
+      "user_id": 8088424398,
+      "action": "user_returned",
+      "metadata": {},
+      "timestamp": "2025-11-07T10:13:55.996Z"
+    },
+    {
+      "user_id": 8088424398,
+      "action": "callback_price_aapl",
+      "metadata": {},
+      "timestamp": "2025-11-07T10:13:55.998Z"
+    },
+    {
+      "user_id": 8088424398,
+      "action": "user_returned",
+      "metadata": {},
+      "timestamp": "2025-11-07T10:14:03.468Z"
+    },
+    {
+      "user_id": 8088424398,
+      "action": "callback_new_features",
+      "metadata": {},
+      "timestamp": "2025-11-07T10:14:03.473Z"
+    },
+    {
+      "user_id": 8088424398,
+      "action": "user_returned",
+      "metadata": {},
+      "timestamp": "2025-11-07T10:14:06.075Z"
+    },
+    {
+      "user_id": 8088424398,
+      "action": "callback_portfolio_tracker",
+      "metadata": {},
+      "timestamp": "2025-11-07T10:14:06.076Z"
+    },
+    {
+      "user_id": 8088424398,
+      "action": "user_returned",
+      "metadata": {},
+      "timestamp": "2025-11-07T10:14:09.277Z"
+    },
+    {
+      "user_id": 8088424398,
+      "action": "callback_add_asset",
+      "metadata": {},
+      "timestamp": "2025-11-07T10:14:09.279Z"
+    },
+    {
+      "user_id": 8088424398,
+      "action": "user_returned",
+      "metadata": {},
+      "timestamp": "2025-11-07T10:14:32.540Z"
+    },
+    {
+      "user_id": 8088424398,
+      "action": "callback_new_features",
+      "metadata": {},
+      "timestamp": "2025-11-07T10:14:32.540Z"
+    },
+    {
+      "user_id": 8088424398,
+      "action": "user_returned",
+      "metadata": {},
+      "timestamp": "2025-11-07T10:14:41.024Z"
+    },
+    {
+      "user_id": 8088424398,
+      "action": "callback_support_ticket",
+      "metadata": {},
+      "timestamp": "2025-11-07T10:14:41.026Z"
+    },
+    {
+      "user_id": 8088424398,
+      "action": "ticket_created",
+      "metadata": {
+        "ticket_id": "T1762510485820",
+        "subject": "Ciao"
+      },
+      "timestamp": "2025-11-07T10:14:45.820Z"
+    },
+    {
+      "user_id": 8088424398,
+      "action": "user_returned",
+      "metadata": {},
+      "timestamp": "2025-11-07T10:15:54.970Z"
+    },
+    {
+      "user_id": 8088424398,
+      "action": "callback_new_features",
+      "metadata": {},
+      "timestamp": "2025-11-07T10:15:54.972Z"
+    },
+    {
+      "user_id": 8088424398,
+      "action": "user_returned",
+      "metadata": {},
+      "timestamp": "2025-11-07T10:16:02.698Z"
+    },
+    {
+      "user_id": 8088424398,
+      "action": "callback_market_prices",
+      "metadata": {},
+      "timestamp": "2025-11-07T10:16:02.699Z"
+    },
+    {
+      "user_id": 8088424398,
+      "action": "user_returned",
+      "metadata": {},
+      "timestamp": "2025-11-07T10:16:27.211Z"
+    },
+    {
+      "user_id": 8088424398,
+      "action": "callback_price_btc",
+      "metadata": {},
+      "timestamp": "2025-11-07T10:16:27.213Z"
+    },
+    {
+      "user_id": 8088424398,
+      "action": "user_returned",
+      "metadata": {},
+      "timestamp": "2025-11-07T10:16:29.443Z"
+    },
+    {
+      "user_id": 8088424398,
+      "action": "callback_price_aapl",
+      "metadata": {},
+      "timestamp": "2025-11-07T10:16:29.444Z"
+    },
+    {
+      "user_id": 8088424398,
+      "action": "price_check",
+      "metadata": {
+        "symbol": "MSFT"
+      },
+      "timestamp": "2025-11-07T10:16:45.618Z"
+    },
+    {
+      "user_id": 8088424398,
+      "action": "user_returned",
+      "metadata": {},
+      "timestamp": "2025-11-07T10:17:23.930Z"
+    },
+    {
+      "user_id": 8088424398,
+      "action": "callback_new_features",
+      "metadata": {},
+      "timestamp": "2025-11-07T10:17:23.939Z"
+    },
+    {
+      "user_id": 8088424398,
+      "action": "user_returned",
+      "metadata": {},
+      "timestamp": "2025-11-07T10:17:29.856Z"
+    },
+    {
+      "user_id": 8088424398,
+      "action": "callback_back_main",
+      "metadata": {},
+      "timestamp": "2025-11-07T10:17:29.860Z"
+    },
+    {
+      "user_id": 8088424398,
+      "action": "user_returned",
+      "metadata": {},
+      "timestamp": "2025-11-07T10:17:32.128Z"
+    },
+    {
+      "user_id": 8088424398,
+      "action": "callback_guide_menu",
+      "metadata": {},
+      "timestamp": "2025-11-07T10:17:32.131Z"
+    },
+    {
+      "user_id": 8088424398,
+      "action": "user_returned",
+      "metadata": {},
+      "timestamp": "2025-11-07T10:17:33.306Z"
+    },
+    {
+      "user_id": 8088424398,
+      "action": "callback_guida2",
+      "metadata": {},
+      "timestamp": "2025-11-07T10:17:33.306Z"
+    },
+    {
+      "user_id": 8088424398,
+      "action": "guide_viewed",
+      "metadata": {
+        "guide_id": "guida2"
+      },
+      "timestamp": "2025-11-07T10:17:33.307Z"
+    },
+    {
+      "user_id": 8088424398,
+      "action": "user_returned",
+      "metadata": {},
+      "timestamp": "2025-11-07T10:17:34.618Z"
+    },
+    {
+      "user_id": 8088424398,
+      "action": "callback_guide_menu",
+      "metadata": {},
+      "timestamp": "2025-11-07T10:17:34.618Z"
+    },
+    {
+      "user_id": 8088424398,
+      "action": "user_returned",
+      "metadata": {},
+      "timestamp": "2025-11-07T10:17:36.362Z"
+    },
+    {
+      "user_id": 8088424398,
+      "action": "callback_back_main",
+      "metadata": {},
+      "timestamp": "2025-11-07T10:17:36.363Z"
+    },
+    {
+      "user_id": 8088424398,
+      "action": "user_returned",
+      "metadata": {},
+      "timestamp": "2025-11-07T10:17:39.708Z"
+    },
+    {
+      "user_id": 8088424398,
+      "action": "callback_community",
+      "metadata": {},
+      "timestamp": "2025-11-07T10:17:39.709Z"
+    },
+    {
+      "user_id": 8088424398,
+      "action": "user_returned",
+      "metadata": {},
+      "timestamp": "2025-11-07T10:17:40.975Z"
+    },
+    {
+      "user_id": 8088424398,
+      "action": "callback_back_main",
+      "metadata": {},
+      "timestamp": "2025-11-07T10:17:40.975Z"
+    },
+    {
+      "user_id": 8088424398,
+      "action": "user_returned",
+      "metadata": {},
+      "timestamp": "2025-11-07T10:17:42.459Z"
+    },
+    {
+      "user_id": 8088424398,
+      "action": "callback_help",
+      "metadata": {},
+      "timestamp": "2025-11-07T10:17:42.461Z"
+    },
+    {
+      "user_id": 8088424398,
+      "action": "user_returned",
+      "metadata": {},
+      "timestamp": "2025-11-07T10:17:44.846Z"
+    },
+    {
+      "user_id": 8088424398,
+      "action": "callback_support_ticket",
+      "metadata": {},
+      "timestamp": "2025-11-07T10:17:44.847Z"
+    },
+    {
+      "user_id": 8088424398,
+      "action": "user_returned",
+      "metadata": {},
+      "timestamp": "2025-11-07T10:17:47.969Z"
+    },
+    {
+      "user_id": 8088424398,
+      "action": "callback_new_features",
+      "metadata": {},
+      "timestamp": "2025-11-07T10:17:47.970Z"
+    },
+    {
+      "user_id": 8088424398,
+      "action": "user_returned",
+      "metadata": {},
+      "timestamp": "2025-11-07T10:17:52.602Z"
+    },
+    {
+      "user_id": 8088424398,
+      "action": "callback_support_ticket",
+      "metadata": {},
+      "timestamp": "2025-11-07T10:17:52.602Z"
+    },
+    {
+      "user_id": 8088424398,
+      "action": "ticket_created",
+      "metadata": {
+        "ticket_id": "T1762510686966",
+        "subject": "Problema"
+      },
+      "timestamp": "2025-11-07T10:18:06.966Z"
+    },
+    {
+      "user_id": 8088424398,
+      "action": "user_returned",
+      "metadata": {},
+      "timestamp": "2025-11-07T10:21:05.971Z"
+    },
+    {
+      "user_id": 8088424398,
+      "action": "callback_new_features",
+      "metadata": {},
+      "timestamp": "2025-11-07T10:21:05.976Z"
+    },
+    {
+      "user_id": 8088424398,
+      "action": "user_returned",
+      "metadata": {},
+      "timestamp": "2025-11-07T10:21:13.498Z"
+    },
+    {
+      "user_id": 8088424398,
+      "action": "callback_market_prices",
+      "metadata": {},
+      "timestamp": "2025-11-07T10:21:13.500Z"
+    },
+    {
+      "user_id": 8088424398,
+      "action": "user_returned",
+      "metadata": {},
+      "timestamp": "2025-11-07T10:21:21.045Z"
+    },
+    {
+      "user_id": 8088424398,
+      "action": "callback_price_aapl",
+      "metadata": {},
+      "timestamp": "2025-11-07T10:21:21.047Z"
+    },
+    {
+      "user_id": 8088424398,
+      "action": "user_returned",
+      "metadata": {},
+      "timestamp": "2025-11-07T10:21:24.604Z"
+    },
+    {
+      "user_id": 8088424398,
+      "action": "callback_price_btc",
+      "metadata": {},
+      "timestamp": "2025-11-07T10:21:24.606Z"
+    },
+    {
+      "user_id": 8088424398,
+      "action": "user_returned",
+      "metadata": {},
+      "timestamp": "2025-11-07T10:24:53.235Z"
+    },
+    {
+      "user_id": 8088424398,
+      "action": "callback_new_features",
+      "metadata": {},
+      "timestamp": "2025-11-07T10:24:53.236Z"
+    },
+    {
+      "user_id": 8088424398,
+      "action": "user_returned",
+      "metadata": {},
+      "timestamp": "2025-11-07T10:25:01.219Z"
+    },
+    {
+      "user_id": 8088424398,
+      "action": "callback_export_data",
+      "metadata": {},
+      "timestamp": "2025-11-07T10:25:01.222Z"
+    },
+    {
+      "user_id": 8088424398,
+      "action": "user_returned",
+      "metadata": {},
+      "timestamp": "2025-11-07T10:25:06.993Z"
+    },
+    {
+      "user_id": 8088424398,
+      "action": "callback_export_csv",
+      "metadata": {},
+      "timestamp": "2025-11-07T10:25:06.996Z"
+    },
+    {
+      "user_id": 8088424398,
+      "action": "data_export",
+      "metadata": {
+        "format": "csv"
+      },
+      "timestamp": "2025-11-07T10:25:07.003Z"
+    },
+    {
+      "user_id": 8088424398,
+      "action": "user_returned",
+      "metadata": {},
+      "timestamp": "2025-11-07T10:25:24.053Z"
+    },
+    {
+      "user_id": 8088424398,
+      "action": "callback_export_data",
+      "metadata": {},
+      "timestamp": "2025-11-07T10:25:24.054Z"
+    },
+    {
+      "user_id": 8088424398,
+      "action": "user_returned",
+      "metadata": {},
+      "timestamp": "2025-11-07T10:25:26.147Z"
+    },
+    {
+      "user_id": 8088424398,
+      "action": "callback_new_features",
+      "metadata": {},
+      "timestamp": "2025-11-07T10:25:26.150Z"
+    },
+    {
+      "user_id": 8088424398,
+      "action": "user_returned",
+      "metadata": {},
+      "timestamp": "2025-11-07T10:25:27.667Z"
+    },
+    {
+      "user_id": 8088424398,
+      "action": "callback_portfolio_tracker",
+      "metadata": {},
+      "timestamp": "2025-11-07T10:25:27.670Z"
+    },
+    {
+      "user_id": 8088424398,
+      "action": "user_returned",
+      "metadata": {},
+      "timestamp": "2025-11-07T10:25:30.538Z"
+    },
+    {
+      "user_id": 8088424398,
+      "action": "callback_add_asset",
+      "metadata": {},
+      "timestamp": "2025-11-07T10:25:30.541Z"
+    },
+    {
+      "user_id": 8088424398,
+      "action": "user_returned",
+      "metadata": {},
+      "timestamp": "2025-11-07T10:25:33.771Z"
+    },
+    {
+      "user_id": 8088424398,
+      "action": "callback_add_asset",
+      "metadata": {},
+      "timestamp": "2025-11-07T10:25:33.773Z"
+    },
+    {
+      "user_id": 8088424398,
+      "action": "portfolio_updated",
+      "metadata": {
+        "asset_count": 1,
+        "total_value": 0
+      },
+      "timestamp": "2025-11-07T10:26:04.709Z"
+    },
+    {
+      "user_id": 8088424398,
+      "action": "asset_added",
+      "metadata": {
+        "asset_name": "1"
+      },
+      "timestamp": "2025-11-07T10:26:04.710Z"
+    },
+    {
+      "user_id": 8088424398,
+      "action": "user_returned",
+      "metadata": {},
+      "timestamp": "2025-11-07T10:26:09.154Z"
+    },
+    {
+      "user_id": 8088424398,
+      "action": "callback_update_prices",
+      "metadata": {},
+      "timestamp": "2025-11-07T10:26:09.155Z"
+    },
+    {
+      "user_id": 8088424398,
+      "action": "user_returned",
+      "metadata": {},
+      "timestamp": "2025-11-07T10:26:13.124Z"
+    },
+    {
+      "user_id": 8088424398,
+      "action": "callback_export_portfolio",
+      "metadata": {},
+      "timestamp": "2025-11-07T10:26:13.127Z"
+    },
+    {
+      "user_id": 8088424398,
+      "action": "user_returned",
+      "metadata": {},
+      "timestamp": "2025-11-07T10:26:16.065Z"
+    },
+    {
+      "user_id": 8088424398,
+      "action": "callback_new_features",
+      "metadata": {},
+      "timestamp": "2025-11-07T10:26:16.066Z"
+    },
+    {
+      "user_id": 8088424398,
+      "action": "user_returned",
+      "metadata": {},
+      "timestamp": "2025-11-07T10:26:18.812Z"
+    },
+    {
+      "user_id": 8088424398,
+      "action": "callback_export_data",
+      "metadata": {},
+      "timestamp": "2025-11-07T10:26:18.815Z"
+    },
+    {
+      "user_id": 8088424398,
+      "action": "user_returned",
+      "metadata": {},
+      "timestamp": "2025-11-07T10:26:20.919Z"
+    },
+    {
+      "user_id": 8088424398,
+      "action": "callback_export_csv",
+      "metadata": {},
+      "timestamp": "2025-11-07T10:26:20.922Z"
+    },
+    {
+      "user_id": 8088424398,
+      "action": "data_export",
+      "metadata": {
+        "format": "csv"
+      },
+      "timestamp": "2025-11-07T10:26:20.928Z"
+    },
+    {
+      "user_id": 8088424398,
+      "action": "user_returned",
+      "metadata": {},
+      "timestamp": "2025-11-07T10:26:34.983Z"
+    },
+    {
+      "user_id": 8088424398,
+      "action": "callback_export_data",
+      "metadata": {},
+      "timestamp": "2025-11-07T10:26:34.985Z"
+    },
+    {
+      "user_id": 8088424398,
+      "action": "user_returned",
+      "metadata": {},
+      "timestamp": "2025-11-07T10:26:45.995Z"
+    },
+    {
+      "user_id": 8088424398,
+      "action": "callback_export_json",
+      "metadata": {},
+      "timestamp": "2025-11-07T10:26:45.998Z"
+    },
+    {
+      "user_id": 8088424398,
+      "action": "data_export",
+      "metadata": {
+        "format": "json"
+      },
+      "timestamp": "2025-11-07T10:26:46.003Z"
+    },
+    {
+      "user_id": 8088424398,
+      "action": "user_returned",
+      "metadata": {},
+      "timestamp": "2025-11-07T10:34:07.490Z"
+    },
+    {
+      "user_id": 8088424398,
+      "action": "bot_start",
+      "metadata": {},
+      "timestamp": "2025-11-07T10:34:07.494Z"
+    },
+    {
+      "user_id": 8088424398,
+      "action": "user_returned",
+      "metadata": {},
+      "timestamp": "2025-11-07T10:34:10.708Z"
+    },
+    {
+      "user_id": 8088424398,
+      "action": "callback_portafogli_menu",
+      "metadata": {},
+      "timestamp": "2025-11-07T10:34:10.711Z"
+    },
+    {
+      "user_id": 8088424398,
+      "action": "user_returned",
+      "metadata": {},
+      "timestamp": "2025-11-07T10:34:11.986Z"
+    },
+    {
+      "user_id": 8088424398,
+      "action": "callback_p3",
+      "metadata": {},
+      "timestamp": "2025-11-07T10:34:11.991Z"
+    },
+    {
+      "user_id": 8088424398,
+      "action": "portfolio_viewed",
+      "metadata": {
+        "portfolio_id": "p3"
+      },
+      "timestamp": "2025-11-07T10:34:11.993Z"
+    },
+    {
+      "user_id": 8088424398,
+      "action": "user_returned",
+      "metadata": {},
+      "timestamp": "2025-11-07T10:34:13.859Z"
+    },
+    {
+      "user_id": 8088424398,
+      "action": "callback_portafogli_menu",
+      "metadata": {},
+      "timestamp": "2025-11-07T10:34:13.862Z"
+    },
+    {
+      "user_id": 8088424398,
+      "action": "user_returned",
+      "metadata": {},
+      "timestamp": "2025-11-07T10:34:15.167Z"
+    },
+    {
+      "user_id": 8088424398,
+      "action": "callback_back_main",
+      "metadata": {},
+      "timestamp": "2025-11-07T10:34:15.170Z"
+    },
+    {
+      "user_id": 8088424398,
+      "action": "user_returned",
+      "metadata": {},
+      "timestamp": "2025-11-07T10:34:16.353Z"
+    },
+    {
+      "user_id": 8088424398,
+      "action": "callback_new_features",
+      "metadata": {},
+      "timestamp": "2025-11-07T10:34:16.355Z"
+    },
+    {
+      "user_id": 8088424398,
+      "action": "user_returned",
+      "metadata": {},
+      "timestamp": "2025-11-07T10:34:24.887Z"
+    },
+    {
+      "user_id": 8088424398,
+      "action": "callback_portfolio_tracker",
+      "metadata": {},
+      "timestamp": "2025-11-07T10:34:24.891Z"
+    },
+    {
+      "user_id": 8088424398,
+      "action": "user_returned",
+      "metadata": {},
+      "timestamp": "2025-11-07T10:34:30.688Z"
+    },
+    {
+      "user_id": 8088424398,
+      "action": "callback_new_features",
+      "metadata": {},
+      "timestamp": "2025-11-07T10:34:30.691Z"
+    },
+    {
+      "user_id": 8088424398,
+      "action": "user_returned",
+      "metadata": {},
+      "timestamp": "2025-11-07T10:34:35.122Z"
+    },
+    {
+      "user_id": 8088424398,
+      "action": "callback_portfolio_tracker",
+      "metadata": {},
+      "timestamp": "2025-11-07T10:34:35.127Z"
+    },
+    {
+      "user_id": 8088424398,
+      "action": "user_returned",
+      "metadata": {},
+      "timestamp": "2025-11-07T10:34:36.566Z"
+    },
+    {
+      "user_id": 8088424398,
+      "action": "callback_update_prices",
+      "metadata": {},
+      "timestamp": "2025-11-07T10:34:36.570Z"
+    },
+    {
+      "user_id": 8088424398,
+      "action": "user_returned",
+      "metadata": {},
+      "timestamp": "2025-11-07T10:34:39.668Z"
+    },
+    {
+      "user_id": 8088424398,
+      "action": "callback_update_prices",
+      "metadata": {},
+      "timestamp": "2025-11-07T10:34:39.671Z"
+    },
+    {
+      "user_id": 8088424398,
+      "action": "user_returned",
+      "metadata": {},
+      "timestamp": "2025-11-07T10:34:41.598Z"
+    },
+    {
+      "user_id": 8088424398,
+      "action": "callback_new_features",
+      "metadata": {},
+      "timestamp": "2025-11-07T10:34:41.599Z"
+    },
+    {
+      "user_id": 8088424398,
+      "action": "user_returned",
+      "metadata": {},
+      "timestamp": "2025-11-07T10:34:43.669Z"
+    },
+    {
+      "user_id": 8088424398,
+      "action": "callback_support_ticket",
+      "metadata": {},
+      "timestamp": "2025-11-07T10:34:43.672Z"
+    },
+    {
+      "user_id": 8088424398,
+      "action": "ticket_created",
+      "metadata": {
+        "ticket_id": "T1762511688786",
+        "subject": "Problema"
+      },
+      "timestamp": "2025-11-07T10:34:48.787Z"
+    },
+    {
+      "user_id": 8088424398,
+      "action": "user_returned",
+      "metadata": {},
+      "timestamp": "2025-11-07T10:35:47.221Z"
+    },
+    {
+      "user_id": 8088424398,
+      "action": "callback_new_features",
+      "metadata": {},
+      "timestamp": "2025-11-07T10:35:47.224Z"
+    },
+    {
+      "user_id": 8088424398,
+      "action": "user_returned",
+      "metadata": {},
+      "timestamp": "2025-11-07T10:35:48.566Z"
+    },
+    {
+      "user_id": 8088424398,
+      "action": "callback_back_main",
+      "metadata": {},
+      "timestamp": "2025-11-07T10:35:48.571Z"
+    },
+    {
+      "user_id": 8088424398,
+      "action": "user_returned",
+      "metadata": {},
+      "timestamp": "2025-11-07T10:36:05.779Z"
+    },
+    {
+      "user_id": 8088424398,
+      "action": "callback_new_features",
+      "metadata": {},
+      "timestamp": "2025-11-07T10:36:05.780Z"
+    },
+    {
+      "user_id": 8088424398,
+      "action": "user_returned",
+      "metadata": {},
+      "timestamp": "2025-11-07T10:36:08.097Z"
+    },
+    {
+      "user_id": 8088424398,
+      "action": "callback_market_prices",
+      "metadata": {},
+      "timestamp": "2025-11-07T10:36:08.099Z"
+    },
+    {
+      "user_id": 8088424398,
+      "action": "user_returned",
+      "metadata": {},
+      "timestamp": "2025-11-07T10:36:09.864Z"
+    },
+    {
+      "user_id": 8088424398,
+      "action": "callback_price_aapl",
+      "metadata": {},
+      "timestamp": "2025-11-07T10:36:09.865Z"
+    },
+    {
+      "user_id": 8088424398,
+      "action": "user_returned",
+      "metadata": {},
+      "timestamp": "2025-11-07T10:36:12.070Z"
+    },
+    {
+      "user_id": 8088424398,
+      "action": "callback_price_btc",
+      "metadata": {},
+      "timestamp": "2025-11-07T10:36:12.071Z"
+    },
+    {
+      "user_id": 167482252,
+      "action": "user_returned",
+      "metadata": {},
+      "timestamp": "2025-11-07T10:44:53.768Z"
+    },
+    {
+      "user_id": 167482252,
+      "action": "bot_start",
+      "metadata": {},
+      "timestamp": "2025-11-07T10:44:53.774Z"
+    },
+    {
+      "user_id": 167482252,
+      "action": "user_returned",
+      "metadata": {},
+      "timestamp": "2025-11-07T10:44:55.808Z"
+    },
+    {
+      "user_id": 167482252,
+      "action": "callback_community",
+      "metadata": {},
+      "timestamp": "2025-11-07T10:44:55.809Z"
+    },
+    {
+      "user_id": 167482252,
+      "action": "user_returned",
+      "metadata": {},
+      "timestamp": "2025-11-07T10:44:56.978Z"
+    },
+    {
+      "user_id": 167482252,
+      "action": "callback_back_main",
+      "metadata": {},
+      "timestamp": "2025-11-07T10:44:56.979Z"
+    },
+    {
+      "user_id": 167482252,
+      "action": "user_returned",
+      "metadata": {},
+      "timestamp": "2025-11-07T10:47:07.714Z"
+    },
+    {
+      "user_id": 167482252,
+      "action": "bot_start",
+      "metadata": {},
+      "timestamp": "2025-11-07T10:47:07.719Z"
+    },
+    {
+      "user_id": 167482252,
+      "action": "user_returned",
+      "metadata": {},
+      "timestamp": "2025-11-07T10:47:08.116Z"
+    },
+    {
+      "user_id": 167482252,
+      "action": "bot_start",
+      "metadata": {},
+      "timestamp": "2025-11-07T10:47:08.118Z"
+    },
+    {
+      "user_id": 167482252,
+      "action": "user_returned",
+      "metadata": {},
+      "timestamp": "2025-11-07T10:47:19.796Z"
+    },
+    {
+      "user_id": 167482252,
+      "action": "callback_guide_menu",
+      "metadata": {},
+      "timestamp": "2025-11-07T10:47:19.800Z"
+    },
+    {
+      "user_id": 167482252,
+      "action": "user_returned",
+      "metadata": {},
+      "timestamp": "2025-11-07T10:47:22.468Z"
+    },
+    {
+      "user_id": 167482252,
+      "action": "callback_guida1",
+      "metadata": {},
+      "timestamp": "2025-11-07T10:47:22.471Z"
+    },
+    {
+      "user_id": 167482252,
+      "action": "guide_viewed",
+      "metadata": {
+        "guide_id": "guida1"
+      },
+      "timestamp": "2025-11-07T10:47:22.474Z"
+    },
+    {
+      "user_id": 167482252,
+      "action": "user_returned",
+      "metadata": {},
+      "timestamp": "2025-11-07T10:47:24.050Z"
+    },
+    {
+      "user_id": 167482252,
+      "action": "callback_guide_menu",
+      "metadata": {},
+      "timestamp": "2025-11-07T10:47:24.055Z"
+    },
+    {
+      "user_id": 167482252,
+      "action": "user_returned",
+      "metadata": {},
+      "timestamp": "2025-11-07T10:47:25.160Z"
+    },
+    {
+      "user_id": 167482252,
+      "action": "callback_back_main",
+      "metadata": {},
+      "timestamp": "2025-11-07T10:47:25.161Z"
+    },
+    {
+      "user_id": 167482252,
+      "action": "user_returned",
+      "metadata": {},
+      "timestamp": "2025-11-07T10:47:26.671Z"
+    },
+    {
+      "user_id": 167482252,
+      "action": "callback_help",
+      "metadata": {},
+      "timestamp": "2025-11-07T10:47:26.675Z"
+    },
+    {
+      "user_id": 167482252,
+      "action": "user_returned",
+      "metadata": {},
+      "timestamp": "2025-11-07T10:47:31.595Z"
+    },
+    {
+      "user_id": 167482252,
+      "action": "callback_support_ticket",
+      "metadata": {},
+      "timestamp": "2025-11-07T10:47:31.599Z"
+    },
+    {
+      "user_id": 167482252,
+      "action": "user_returned",
+      "metadata": {},
+      "timestamp": "2025-11-07T10:47:36.472Z"
+    },
+    {
+      "user_id": 167482252,
+      "action": "callback_new_features",
+      "metadata": {},
+      "timestamp": "2025-11-07T10:47:36.476Z"
+    },
+    {
+      "user_id": 167482252,
+      "action": "user_returned",
+      "metadata": {},
+      "timestamp": "2025-11-07T10:47:40.024Z"
+    },
+    {
+      "user_id": 167482252,
+      "action": "callback_market_prices",
+      "metadata": {},
+      "timestamp": "2025-11-07T10:47:40.028Z"
+    },
+    {
+      "user_id": 167482252,
+      "action": "user_returned",
+      "metadata": {},
+      "timestamp": "2025-11-07T10:47:41.694Z"
+    },
+    {
+      "user_id": 167482252,
+      "action": "callback_price_btc",
+      "metadata": {},
+      "timestamp": "2025-11-07T10:47:41.698Z"
+    },
+    {
+      "user_id": 167482252,
+      "action": "user_returned",
+      "metadata": {},
+      "timestamp": "2025-11-07T10:47:48.823Z"
+    },
+    {
+      "user_id": 167482252,
+      "action": "callback_price_aapl",
+      "metadata": {},
+      "timestamp": "2025-11-07T10:47:48.828Z"
+    },
+    {
+      "user_id": 167482252,
+      "action": "user_returned",
+      "metadata": {},
+      "timestamp": "2025-11-07T10:47:53.143Z"
+    },
+    {
+      "user_id": 167482252,
+      "action": "callback_new_features",
+      "metadata": {},
+      "timestamp": "2025-11-07T10:47:53.146Z"
+    },
+    {
+      "user_id": 167482252,
+      "action": "user_returned",
+      "metadata": {},
+      "timestamp": "2025-11-07T10:54:47.192Z"
+    },
+    {
+      "user_id": 167482252,
+      "action": "bot_start",
+      "metadata": {},
+      "timestamp": "2025-11-07T10:54:47.196Z"
+    },
+    {
+      "user_id": 167482252,
+      "action": "user_returned",
+      "metadata": {},
+      "timestamp": "2025-11-07T10:54:47.776Z"
+    },
+    {
+      "user_id": 167482252,
+      "action": "bot_start",
+      "metadata": {},
+      "timestamp": "2025-11-07T10:54:47.784Z"
+    },
+    {
+      "user_id": 167482252,
+      "action": "user_returned",
+      "metadata": {},
+      "timestamp": "2025-11-07T10:54:55.118Z"
+    },
+    {
+      "user_id": 167482252,
+      "action": "callback_new_features",
+      "metadata": {},
+      "timestamp": "2025-11-07T10:54:55.123Z"
+    },
+    {
+      "user_id": 167482252,
+      "action": "user_returned",
+      "metadata": {},
+      "timestamp": "2025-11-07T10:55:01.926Z"
+    },
+    {
+      "user_id": 167482252,
+      "action": "callback_support_ticket",
+      "metadata": {},
+      "timestamp": "2025-11-07T10:55:01.931Z"
+    },
+    {
+      "user_id": 167482252,
+      "action": "ticket_created",
+      "metadata": {
+        "ticket_id": "T1762512910108",
+        "subject": "cia0"
+      },
+      "timestamp": "2025-11-07T10:55:10.109Z"
+    },
+    {
+      "user_id": 167482252,
+      "action": "user_returned",
+      "metadata": {},
+      "timestamp": "2025-11-07T10:55:25.790Z"
+    },
+    {
+      "user_id": 167482252,
+      "action": "callback_new_features",
+      "metadata": {},
+      "timestamp": "2025-11-07T10:55:25.794Z"
+    },
+    {
+      "user_id": 167482252,
+      "action": "user_returned",
+      "metadata": {},
+      "timestamp": "2025-11-07T10:55:28.713Z"
+    },
+    {
+      "user_id": 167482252,
+      "action": "callback_market_prices",
+      "metadata": {},
+      "timestamp": "2025-11-07T10:55:28.717Z"
+    },
+    {
+      "user_id": 167482252,
+      "action": "user_returned",
+      "metadata": {},
+      "timestamp": "2025-11-07T10:55:33.664Z"
+    },
+    {
+      "user_id": 167482252,
+      "action": "callback_price_btc",
+      "metadata": {},
+      "timestamp": "2025-11-07T10:55:33.668Z"
+    }
+  ],
+  "user_engagement": {
+    "167482252": {
+      "first_seen": "2025-11-07T10:44:53.768Z",
+      "last_seen": "2025-11-07T10:55:33.668Z",
+      "action_count": 48,
+      "actions": [
+        "user_returned",
+        "bot_start",
+        "callback_community",
+        "callback_back_main",
+        "callback_guide_menu",
+        "callback_guida1",
+        "guide_viewed",
+        "callback_help",
+        "callback_support_ticket",
+        "callback_new_features",
+        "callback_market_prices",
+        "callback_price_btc",
+        "callback_price_aapl",
+        "ticket_created"
+      ]
+    },
+    "8088424398": {
+      "first_seen": "2025-11-07T10:13:26.579Z",
+      "last_seen": "2025-11-07T10:36:12.071Z",
+      "action_count": 147,
+      "actions": [
+        "user_returned",
+        "bot_start",
+        "callback_new_features",
+        "callback_portfolio_tracker",
+        "callback_back_main",
+        "callback_market_prices",
+        "callback_price_btc",
+        "callback_price_aapl",
+        "callback_add_asset",
+        "callback_support_ticket",
+        "ticket_created",
+        "price_check",
+        "callback_guide_menu",
+        "callback_guida2",
+        "guide_viewed",
+        "callback_community",
+        "callback_help",
+        "callback_export_data",
+        "callback_export_csv",
+        "data_export",
+        "portfolio_updated",
+        "asset_added",
+        "callback_update_prices",
+        "callback_export_portfolio",
+        "callback_export_json",
+        "callback_portafogli_menu",
+        "callback_p3",
+        "portfolio_viewed"
+      ]
+    }
+  }
+}

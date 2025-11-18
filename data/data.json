@@ -1,0 +1,100 @@
+{
+  "welcome": "🏦 *Benvenuto su MoneyMentorLab!*\n\nL’assistente digitale per costruire *libertà finanziaria* con metodo, chiarezza e strumenti reali:\nguide pratiche, portafogli modello, checklist operative e materiali Premium professionali.\n\nIl tuo percorso parte da qui 👇\n",
+  "community_link": "https://t.me/+y31NtFLobu9lYTE0",
+  "stripe": {
+    "strumenti": "https://buy.stripe.com/bJeaEY7Y87Hm2qdbft7g404",
+    "portafogli": "https://buy.stripe.com/bJe00k2DObXCe8V1ET7g403",
+    "liste": "https://buy.stripe.com/4gMcN6bakgdSaWJ0AP7g402",
+    "completo": "https://buy.stripe.com/cNi4gA5Q06Di4yl5V97g401"
+  },
+  "guides": [
+    {
+      "id": "guida1",
+      "title": "💰 *Gestione del denaro*",
+      "text": "Scopri come costruire una base finanziaria solida: pianifica le spese, crea riserve e impara a far lavorare il denaro per te.",
+      "link": "https://telegra.ph/Guida-pratica-alla-gestione-del-denaro-10-30"
+    },
+    {
+      "id": "guida2",
+      "title": "🧱 *Strumenti per investire*",
+      "text": "Capisci davvero cosa sono ETF, fondi e azioni. Questa guida ti mostra come sceglierli e combinarli con metodo.",
+      "link": "https://telegra.ph/I-principali-strumenti-per-investire-guida-pratica-per-capirli-e-usarli-davvero-10-30"
+    },
+    {
+      "id": "guida3",
+      "title": "🏗️ *Costruisci il tuo portafoglio*",
+      "text": "Metodo chiaro per scegliere strumenti, pesi e settori e bilanciare rischio/rendimento.",
+      "link": "https://telegra.ph/Come-costruire-il-tuo-portafoglio-finanziario-10-30"
+    },
+    {
+      "id": "guida4",
+      "title": "⚠️ *Errori più comuni*",
+      "text": "Evita bias cognitivi e scelte sbagliate che compromettono gli investimenti a lungo termine.",
+      "link": "https://telegra.ph/Gli-errori-pi%C3%B9-comuni-negli-investimenti-e-come-evitarli-davvero-10-30"
+    }
+  ],
+  "portafogli": [
+    {
+      "id": "p1",
+      "title": "📊 *Portafoglio Cauto – Stabilità e rendimento*",
+      "text": "Per chi cerca protezione e crescita moderata. Basato su ETF obbligazionari e difensivi di alta qualità.",
+      "link": "https://telegra.ph/Portafoglio-Base-la-guida-definitiva-10-30"
+    },
+    {
+      "id": "p2",
+      "title": "⚖️ *Portafoglio Bilanciato – Crescita sostenibile*",
+      "text": "Equilibrio tra azioni e obbligazioni per una crescita stabile con rischio controllato.",
+      "link": "https://telegra.ph/Portafoglio-Difensivo-la-guida-completa-10-30"
+    },
+    {
+      "id": "p3",
+      "title": "🚀 *Portafoglio Dinamico – Crescita a lungo termine*",
+      "text": "Focalizzato sulla crescita. Maggior esposizione azionaria e diversificazione geografica.",
+      "link": "https://telegra.ph/Portafoglio-DinamicoCrescita-10-31"
+    },
+    {
+      "id": "p4",
+      "title": "🌍 *Portafoglio Globale ETF – Diversificazione internazionale*",
+      "text": "Espandi i tuoi confini con ETF globali su settori, paesi e valute.",
+      "link": "https://telegra.ph/Portafoglio-Tematico-10-31"
+    },
+    {
+      "id": "p5",
+      "title": "💸 *Portafoglio Rendita – Reddito da dividendi*",
+      "text": "Per chi desidera vivere di rendita. Focus su ETF a dividendo e obbligazioni cedolari.",
+      "link": "https://telegra.ph/Portafoglio-a-Rendita-10-31"
+    }
+  ],
+  "tools": [
+    {
+      "id": "tool_auto",
+      "title": "⚙️ *Automazioni finanziarie*",
+      "text": "Metti il *pilota automatico* a risparmio e investimenti: bonifici ricorrenti “pay-yourself-first”, PAC automatici su ETF con scaglioni e date fisse, alert personali (contributi mancati, obiettivi, ribilanci). Riduci l’attrito decisionale e investi con costanza.",
+      "link": "https://telegra.ph/Guida-completa-allautomazione-del-risparmio-e-degli-investimenti-11-06"
+    },
+    {
+      "id": "tool_app",
+      "title": "📱 *App & monitoraggio dal telefono*",
+      "text": "Le migliori app e flussi cloud/Excel per tracciare spese, portafoglio e dividendi. Dashboard mensile per il check-up della “salute finanziaria” e controllo in mobilità.",
+      "link": "https://telegra.ph/Guida-completa-Gestisci-tutto-dal-telefono-11-06"
+    },
+    {
+      "id": "tool_tax",
+      "title": "🧾 *Pianificazione fiscale*",
+      "text": "Uso strategico delle minusvalenze, check-up annuale dei costi (commissioni/TER) e calcolo della *rendita netta* dopo imposte e inflazione. Con calendario operativo.",
+      "link": "https://telegra.ph/Guida-pratica-Pianificazione-fiscale-minusvalenze-e-rendita-netta-11-06"
+    },
+    {
+      "id": "tool_psy",
+      "title": "🧘 *Psicologia & disciplina*",
+      "text": "Routine anti-impulso: pause programmate “senza mercati”, checklist mensile delle emozioni, diario decisionale e soglie d’azione chiare per proteggere il piano.",
+      "link": "https://telegra.ph/Consigli-psicologici-avanzati-per-risparmiatori-e-investitori-11-06"
+    },
+    {
+      "id": "tool_risk",
+      "title": "🔔 *Rischi & paracadute*",
+      "text": "Checklist di alert (mercato, personale, liquidità), segnali di allarme per non toccare il portafoglio in condizioni critiche, paracaduti assicurativi e piano d’emergenza.",
+      "link": "https://telegra.ph/Gestire-il-rischio-checklist-strumenti-pratici-e-paracaduti-assicurativi-11-06"
+    }
+  ]
+}
